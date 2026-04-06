@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Giliarde Rodrigues
 
-<!--
-**giliarder1994/giliarder1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend em formação, com foco em Node.js e construção de APIs REST.
 
-Here are some ideas to get you started:
+🚀 Atualmente estou focado em:
+- Aprimorar minhas habilidades com Node.js e Express
+- Praticar testes automatizados (unitários e integração)
+- Construir projetos reais para portfólio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Tenho estudado:
+- JavaScript e TypeScript
+- APIs RESTful
+- Banco de dados (SQL)
+- Boas práticas de código e arquitetura
+
+📌 Objetivo:
+Me tornar um desenvolvedor backend sólido, capaz de construir aplicações escaláveis e bem estruturadas.
+
+📫 Como me encontrar:
+- Email: giliarder1994@gmail.com
+- LinkedIn: www.linkedin.com/in/giliarde-rodrigues
+
+---
+
+⭐ Sempre em evolução. Construindo, errando, aprendendo e melhorando todos os dias.
