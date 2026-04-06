@@ -1,6 +1,10 @@
 # 👋 Olá, me chamo Giliarde da Silva Rodrigues
 
-👨🏼‍💻 Desenvolvedor Backend em formação, com foco em Node.js e construção de APIs REST.
+👨🏼‍💻 Desenvolvedor backend em formação, com foco em Node.js e construção de APIs.
+
+Cursando Engenharia de Software, busco alinhar a base teórica com a prática por meio do desenvolvimento de projetos próprios.
+
+Estou em constante evolução, estudando boas práticas, organização de código e testes, com o objetivo de construir aplicações cada vez mais sólidas e bem estruturadas.
 
 
 # 🚀 Atualmente estou focado em:
