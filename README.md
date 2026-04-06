@@ -15,6 +15,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giliarder1994&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giliarder1994&layout=compact&theme=radial)
+
+
 📌 Objetivo:
 Me tornar um desenvolvedor backend sólido, capaz de construir aplicações escaláveis e bem estruturadas.
 
