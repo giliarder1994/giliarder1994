@@ -13,7 +13,7 @@
 ---
 # 👨🏼‍💻 Tecnologias 
 
-# 🧠 Tenho estudado:
+🧠 Tenho estudado:
 
 # Front-End:
 
