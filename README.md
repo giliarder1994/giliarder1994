@@ -4,29 +4,37 @@
 
 ---
 
-🚀 Atualmente estou focado em:
+# 🚀 Atualmente estou focado em:
+
 - Aprimorar minhas habilidades com Node.js e Express
 - Praticar testes automatizados (unitários e integração)
 - Construir projetos reais para portfólio
 
 ---
+# 👨🏼‍💻 Tecnologias 
 
-🧠 Tenho estudado:
+# 🧠 Tenho estudado:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,postman)](https://skillicons.dev)
+# Front-End:
 
--> Versionamento de código:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+
+# Back-End:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman)](https://skillicons.dev)
+
+# -> Versionamento de código:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 
-📌 Objetivo:
+# 📌 Objetivo:
 Me tornar um desenvolvedor backend sólido, capaz de construir aplicações escaláveis e bem estruturadas.
 
 ---
 
-📫 Onde me encontrar:
+# 📫 Onde me encontrar:
 - Email: giliarder1994@gmail.com
 - LinkedIn: www.linkedin.com/in/giliarde-rodrigues
 
