@@ -16,13 +16,13 @@ Estou em constante evolução, estudando boas práticas, organização de códig
 
 # 🧠 Tecnologias 
 
-# Front-End:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
-
 # Back-End:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman)](https://skillicons.dev)
+
+# Front-End:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 # Versionamento de código:
 
