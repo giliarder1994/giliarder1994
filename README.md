@@ -37,7 +37,7 @@ Me tornar um desenvolvedor backend sólido, capaz de construir aplicações esca
 # 📫 Onde me encontrar:
 
 - Email: giliarder1994@gmail.com
-- LinkedIn: www.linkedin.com/in/giliarde-rodrigues
+- LinkedIn: https://www.linkedin.com/in/giliarde-rodrigues/
 
 
 ⭐ Sempre em evolução. Construindo, aprendendo e melhorando todos os dias.
