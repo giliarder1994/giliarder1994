@@ -18,11 +18,11 @@ Estou em constante evolução, estudando boas práticas, organização de códig
 
 # Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman,ts)](https://skillicons.dev)
 
 # Front-End:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 # Versionamento de código:
 
