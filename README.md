@@ -20,10 +20,6 @@ Estou em constante evolução, estudando boas práticas, organização de códig
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman,ts,jest)](https://skillicons.dev)
 
-# Front-End:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-
 # Versionamento de código:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
