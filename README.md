@@ -18,7 +18,7 @@ Estou em constante evolução, estudando boas práticas, organização de códig
 
 # Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postman,ts,jest,supertest)](https://skillicons.dev)
 
 # Front-End:
 
