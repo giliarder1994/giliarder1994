@@ -19,7 +19,7 @@ Estou em constante evolução, estudando boas práticas de programação, organi
 
 # 🧠 Tecnologias 
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,mysql,postman,ts,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,mysql,postman,ts,jest)](https://skillicons.dev)
 
 # Versionamento de código:
 
